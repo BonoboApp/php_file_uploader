@@ -8,7 +8,7 @@ Yeah, so this is the simplest reusable PHP File Uploader I could come up with.
 
 # Usage
 
-Drop it on a PHP-enabled folder and open index.php.  It should work right ot of the box.
+Drop it on a PHP-enabled folder and open index.php.  It should work right out of the box.
 
 # License
 
